@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings! 👋
  
  My name is Jack Sampiere and I am a first-year MSBA student at UCLA Anderson.
 
