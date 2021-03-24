@@ -9,6 +9,6 @@
 - 📫 How to reach me: jack.sampiere.2021@anderson.ucla.edu
 
 Technical skills: <br>
-Languages: Python (Pandas, Scikit-Learn, Keras, NumPy, Seaborn, Matplotlib), R (ggplot2), SQL, MATLAB, C++ <br>
-Software: MySQL, Tableau, Jupyter, AWS, Fivetran, Snowflake, SingleStore, Docker, GitHub, Excel, PowerPoint, Visual Studio <br>
-Analytics: Classification, Regression, Clustering, Time Series, Data Management, Data Visualization, A/B Testing, Optimization
+Languages: Python (Pandas, Scikit-Learn, Keras, NumPy, Seaborn, Matplotlib), R, SQL, MATLAB, C++ <br>
+Software: MySQL, Tableau, Jupyter, AWS, Fivetran, Snowflake, SingleStore, Docker, GitHub, Excel, PowerPoint <br>
+Analytics: Classification, Regression, Clustering, Time Series, Data Visualization, A/B Testing, Optimization
