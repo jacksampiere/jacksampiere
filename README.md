@@ -10,5 +10,5 @@
 
 Technical skills: <br>
 Languages: Python (Pandas, Scikit-Learn, Keras, NumPy, Seaborn, Matplotlib), R, SQL, MATLAB, C++ <br>
-Software: MySQL, Tableau, Jupyter, AWS, Fivetran, Snowflake, SingleStore, Docker, GitHub, Excel, PowerPoint <br>
-Analytics: Classification, Regression, Clustering, Time Series, Data Visualization, A/B Testing, Optimization
+Software: MySQL, PostgresSQL, Tableau, Jupyter, AWS, Snowflake, Fivetran, dbt, GitHub, Excel, PowerPoint <br>
+Analytics: Classification, Regression, Clustering, Time Series, Optimization, NLP, A/B Testing, Causal Inference, ETL/ELT, Data Visualization
