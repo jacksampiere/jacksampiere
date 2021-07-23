@@ -3,8 +3,7 @@
  My name is Jack Sampiere and I am a first-year MSBA student at UCLA Anderson.
 
 ### A bit about myself
-- 🔭 I have experience in consulting, research, and data analysis
-- 🌱 I’m currently improving my skills as a data scientist
+- 🔭 I have experience in consulting, research, and data science
 - ⚡ Fun fact: I like to surf, play soccer, and ski
 - 📫 How to reach me: jack.sampiere.2021@anderson.ucla.edu
 
