@@ -1,6 +1,6 @@
 ### Greetings! 👋
  
- My name is Jack Sampiere and I am a first-year MSBA student at UCLA Anderson.
+ My name is Jack Sampiere. I am a data scientist and UCLA Anderson MSBA graduate.
 
 ### A bit about myself
 - 🔭 I have experience in consulting, research, and data science
