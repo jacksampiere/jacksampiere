@@ -1,13 +1,12 @@
 ### Greetings! 👋
  
- My name is Jack Sampiere. I am a data scientist and UCLA Anderson MSBA graduate.
+My name is Jack Sampiere. I am a data scientist, ML engineer, and UCLA Anderson MSBA graduate.
 
 ### A bit about myself
-- 🔭 I have experience in consulting, research, and data science
-- ⚡ Fun fact: I like to surf, play soccer, and ski
-- 📫 How to reach me: jack.sampiere.2021@anderson.ucla.edu
+- 🔭 I specialize in time series machine learning applied to sensor data in the wearables and neuroscience space
+- ⚡ I enjoy cycling, surfing, and skiing
+- 📫 How to reach me: jack.sampiere@gmail.com
 
-Technical skills: <br>
-Languages: Python (Pandas, NumPy, SciPy, Scikit-Learn, Keras, Seaborn, Matplotlib), R, SQL, MATLAB, C++ <br>
-Software: MySQL, PostgreSQL, AWS, Tableau, Jupyter, Snowflake, Fivetran, dbt, GitHub, Excel, PowerPoint <br>
-Analytics: Classification, Regression, Clustering, Time Series, Signal Processing, Optimization, NLP, A/B Testing, Causal Inference, ETL/ELT, Data Visualization
+Languages: Python (NumPy, SciPy, scikit-learn, PyTorch, TensorFlow, Keras, pandas, Matplotlib), R, SQL, MATLAB, C++ <br>
+Software: Git/GitHub, Docker, AWS (SageMaker, s3), Snowflake, MLOps, object-oriented programming, test-driven development <br>
+Machine Learning: Classification, regression, deep learning (CNN, RNN, SSL), time series, signal processing, clustering <br>
